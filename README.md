@@ -1,7 +1,6 @@
-- 👋 Hi, I’m owiliwalace
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Web development
+- name: WakaTime Stat Update Action
+  uses: avinal/Profile-Readme-WakaTime@v3.0
+
 - 📫 How to reach me owiliwalace@gmail.com
 
 <!---
